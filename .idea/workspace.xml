@@ -4,15 +4,62 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="e888848b-f7fe-4072-b046-c168934266bd" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/app/constants/colors.constants.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/app/constants/constants.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/app/constants/seo.constants.ts" afterDir="false" />
+    <list default="true" id="e888848b-f7fe-4072-b046-c168934266bd" name="Changes" comment="add start version project">
+      <change afterPath="$PROJECT_DIR$/.prettierrc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/images/1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/images/2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/images/3.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/images/man.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/app/(public)/about-me/page.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/app/(public)/contact-me/page.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/app/(public)/download-projects/page.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/app/(public)/layout.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/app/(public)/page.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/app/not-found.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/AboutMe/AboutMe.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/IamBlock/IamBlock.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/MainPhoto/MainPhoto.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/SocialLinks/SocialLinks.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/layout/Content/Content.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/layout/Content/Header/Header.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/layout/Content/Header/HeaderLinks/HeaderLinks.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/layout/Layout.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/config/contacts.config.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/config/main.config.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lib/fontawesome.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/providers/Providers.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/codeStyles/Project.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/codeStyles/Project.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/prettier.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/prettier.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.prettierrc.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Dockerfile" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Dockerfile.bun" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bun.lock" beforeDir="false" afterPath="$PROJECT_DIR$/bun.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/images/screenshot.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/app/(delete-this-and-modify-page.tsx)/ExtensionDetails.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/app/(delete-this-and-modify-page.tsx)/HomePage.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/app/(delete-this-and-modify-page.tsx)/NavigationBar.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/app/(delete-this-and-modify-page.tsx)/SetupDetails.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/app/(delete-this-and-modify-page.tsx)/ThemeSwitch.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/app/constants/colors.constants.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/app/globals.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/app/globals.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/app/layout.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/app/layout.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/app/page.tsx" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="TypeScript File" />
+        <option value="TypeScript JSX File" />
+      </list>
+    </option>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -40,30 +87,36 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "ASKED_SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "ModuleVcsDetector.initialDetectionPerformed": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "RunOnceActivity.git.unshallow": "true",
-    "git-widget-placeholder": "master",
-    "js.debugger.nextJs.config.created.client": "true",
-    "js.debugger.nextJs.config.created.server": "true",
-    "last_opened_file_path": "C:/Users/user/Desktop/designer-portfolio/src/app",
-    "node.js.detected.package.eslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "nodejs_package_manager_path": "npm",
-    "prettierjs.PrettierConfiguration.Package": "C:\\Users\\user\\Desktop\\designer-portfolio\\node_modules\\prettier",
-    "settings.editor.selected.configurable": "project.propVCSSupport.DirectoryMappings",
-    "ts.external.directory.path": "C:\\Users\\user\\Desktop\\designer-portfolio\\node_modules\\typescript\\lib",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;ASKED_SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;ModuleVcsDetector.initialDetectionPerformed&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;js.debugger.nextJs.config.created.client&quot;: &quot;true&quot;,
+    &quot;js.debugger.nextJs.config.created.server&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/user/Desktop/designer-portfolio/src/app/(public)/contact-me&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;prettierjs.PrettierConfiguration.Package&quot;: &quot;C:\\Users\\user\\Desktop\\designer-portfolio\\node_modules\\prettier&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;settings.javascript.prettier&quot;,
+    &quot;ts.external.directory.path&quot;: &quot;C:\\Users\\user\\Desktop\\designer-portfolio\\node_modules\\typescript\\lib&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\user\Desktop\designer-portfolio\src\app\(public)\contact-me" />
+      <recent name="C:\Users\user\Desktop\designer-portfolio\src\app\(public)\download-project" />
+      <recent name="C:\Users\user\Desktop\designer-portfolio\src\components" />
+      <recent name="C:\Users\user\Desktop\designer-portfolio\src\app\(public)" />
       <recent name="C:\Users\user\Desktop\designer-portfolio\src\app" />
-      <recent name="C:\Users\user\Desktop\designer-portfolio" />
-      <recent name="C:\Users\user\Desktop\designer-portfolio\src\constants" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\user\Desktop\designer-portfolio\public\images" />
+      <recent name="C:\Users\user\Desktop\designer-portfolio\src\app\(public)" />
     </key>
   </component>
   <component name="RunManager" selected="npm.Next.js: server-side">
@@ -103,8 +156,21 @@
       <workItem from="1749815140765" duration="382000" />
       <workItem from="1749815654885" duration="360000" />
       <workItem from="1749816027448" duration="699000" />
-      <workItem from="1749893131227" duration="1830000" />
+      <workItem from="1749893131227" duration="8365000" />
+      <workItem from="1749926531235" duration="18000" />
+      <workItem from="1749936617987" duration="9396000" />
+      <workItem from="1750019766958" duration="10453000" />
+      <workItem from="1750031117449" duration="559000" />
     </task>
+    <task id="LOCAL-00001" summary="add start version project">
+      <option name="closed" value="true" />
+      <created>1749895408381</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1749895408381</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -132,5 +198,9 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="add start version project" />
+    <option name="LAST_COMMIT_MESSAGE" value="add start version project" />
   </component>
 </project>
